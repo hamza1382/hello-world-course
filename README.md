@@ -1,2 +1,2 @@
-انا اريد تعلم استعمال github# hello-world-course
+# hello-world-course
 تجربة جديدة
